@@ -1,1 +1,1 @@
-# minotaur - labirynth generator
+# DIMA TOZHE PETUX
