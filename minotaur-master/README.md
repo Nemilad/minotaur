@@ -1,0 +1,2 @@
+# Minotaur - Labirinth Generator
+
